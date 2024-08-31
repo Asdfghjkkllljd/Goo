@@ -11,5 +11,5 @@ RULES_LINK = "https://t.me/FLIPPY_PRAVILA" # Ссылка на канал с п�
 NEWS_LINK = "https://t.me/flippyNOVOSTI" # Ссылка на новостной канал
 OWNER_LINK = "https://t.me/official_neender" # Ссылка на владельца/поддержку
 PEREHOD_LINK = "https://t.me/Flippy_Casino" # Ссылка на переходник
-BETS_LINK = "https://t.me/extremecasinoo" # Ссылка на канал ставок
+BETS_LINK = "https://t.me/Flippy_Casino" # Ссылка на канал ставок
 CASINO_NAME = "FLIPPY CASINO" # Название казино
